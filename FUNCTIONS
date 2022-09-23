@@ -1,0 +1,25 @@
+#Arithmetic Operators
+def arith(x,y):
+    print(x+y)
+    print(x-y)
+    print(x*y)
+    print(x/y)
+    print(x//y)
+    print(x%y)
+a=int(input())
+b=int(input())
+arith(a,b)
+
+
+#Sqaure Root
+def sqrt(n):
+    print(n**2)
+a=int(input())
+sqrt(a)
+
+
+#Cube Root
+def sqrt(n):
+    print(n**3)
+a=int(input())
+sqrt(a)
